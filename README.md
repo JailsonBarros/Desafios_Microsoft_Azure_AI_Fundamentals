@@ -1,0 +1,1 @@
+# Desafios_Microsoft_Azure_AI_Fundamentals
