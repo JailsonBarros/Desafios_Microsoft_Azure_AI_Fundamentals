@@ -1,1 +1,3 @@
-
+- Contrui o modelo
+- Inseri as fotos
+- Analisei os resultados
